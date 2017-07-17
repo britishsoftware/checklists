@@ -7,7 +7,7 @@ This checklist should be worked through before the launch of any site.
 - [ ] DNS access is determined and access checked (where applicable)
 - [ ] Domain access is determined and access checked (where applicable)
 
-## evelopment
+## Development
 - [ ] Development URLs have been changed to production
 - [ ] JS, CSS and images have been minified
 - [ ] Server has been prepped and tuned for production (image caching, max_execution_time has been set correctly)
@@ -25,7 +25,7 @@ This checklist should be worked through before the launch of any site.
 - [ ] 404 page exists and informative
 - [ ] Print stylesheet has been implemented
 
-## nalytics
+## Analytics
 - [ ] Google Tag Manager has been installed and configured
 - [ ] Google Analytics has been added via Google Tag Manager
 - [ ] Website has been verified in Webmaster Tools in our / client Google Account
