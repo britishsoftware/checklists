@@ -17,6 +17,7 @@ This checklist should be worked through before the launch of any site.
 - [ ] non-SSL to SSL redirect has been setup
 - [ ] Favicon has been added
 - [ ] 301 redirects have been implemented
+- [ ] Remove trailing slashes from URLs
 - [ ] Ensure only necessary fonts, weights and character sets are installed
 - [ ] Any CDN'able assets have been switched to use CDN (Google CDN, etc)
 - [ ] Production URLs have been allowed in Webfont packs (Typekit, etc)
@@ -75,7 +76,7 @@ This checklist should be worked through before the launch of any site.
 - [ ] SSL certificate has been registered on the server
 - [ ] Remote SSH access as 'root' has been disabled (permissions should be elevated)
 - [ ] Server timezone has been correctly configured according to destination locale
- 
+
 ## Deployment
 - [ ] Site has been setup in DeployHQ
 - [ ] Config files (wp-config.php / env.php) have been configured in the Config Files within DeployHQ
