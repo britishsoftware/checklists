@@ -37,6 +37,7 @@ This checklist should be worked through before the launch of any site.
 - [ ] MOZ.com site crawl has been run and issue highlighted have been remedied
 - [ ] XML sitemap has been generated and added to root of website
 - [ ] robots.txt is generated and added to root of website (any disallow rules have been removed)
+- [ ] Anchors to use appropriate TITLE tags
 - [ ] Images use appropriate ALT tags
 - [ ] noindex / nofollow tags have been removed
 - [ ] Open Graph tags included across website and appropriate? (including images where possible)
